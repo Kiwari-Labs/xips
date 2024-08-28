@@ -1,0 +1,13 @@
+{
+  "name": "waiving-transaction-fee",
+  "scripts": {
+    "test": "hardhat test --network hardhat",
+    "coverage": "hardhat coverage",
+    "compile": "hardhat compile"
+  },
+
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  }
+}
