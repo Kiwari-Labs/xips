@@ -1,3 +1,11 @@
+---
+title: Stateful precompiled contract Specification
+description: Stateful precompiled contract Specification for large-scale and complex operations.
+author: sirawt (@MASDXI)
+status: Draft
+created: 2024-08-18
+---
+
 # Stateful precompiled contract Specification
 
 ## Introduction
