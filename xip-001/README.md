@@ -187,5 +187,5 @@ to mitigate create condition checking waiving ratio in length from `MINIMUM_VALU
 - EIP-1559
 
 ## License
-
-[Apache-2.0](./LICENSE.md).
+Release under the [Apache-2.0](LICENSE) license.   
+Copyright (C) to author. All rights reserved.
